@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KireetiTagirisa
+- 👋 Hi, I’m Kireeti Tagirisa
 - 👀 I’m interested in java, Python, SQL, DSA.
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
