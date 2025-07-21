@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kireeti Tagirisa
-- 👀 I’m interested in java, Python, SQL, DSA.
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in java, Springboot, SQL, DSA.
+- 🌱 I’m currently learning and practicing  Springboot and DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kireetitagirisa@gmail.com
 
